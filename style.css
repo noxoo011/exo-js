@@ -1,0 +1,36 @@
+#main-article {
+    margin: 50px;
+    background-color: blueviolet;
+    color: white;
+    padding: 25px;
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 350px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 35px;
+}
+
+header {
+    background-color: aqua;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 35px;
+
+}
+li {
+    list-style: none;    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    display:flex;
+}
